@@ -1,6 +1,6 @@
 <h1 align="center"><b>Hi there! I'm Mateo Cardona Arias</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=27AE60&size=30&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub!;Systems+Engineering+Student;Web+Developer+💻;Always+Learning+🚀)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=27AE60&size=30&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub!;Systems+Engineering+Student;Web+Developer+In+Training💻;Always+Learning+🚀)](https://git.io/typing-svg)
 
 ---
 
@@ -11,7 +11,11 @@
 - 🚀 Always willing to **go beyond my current knowledge**, embracing challenges as opportunities.  
 - 📚 Strong believer in **continuous growth** – learning something new every day.  
 - 🏆 I work hard to achieve my goals while keeping a focus on **improvement and innovation**.  
-- 🤝 Open to **collaboration**, teamwork, and sharing knowledge with others.  
+- 🤝 Open to **collaboration**, teamwork, and sharing knowledge with others.
+- 🐱‍👤 Strong interest in **Backend development** for web applications, using technologies such as **Java and SpringBoot**.
+- 🔋  Experience with **SQL and NoSQL** databases.
+- 🎨 Frontend development using frameworks such as **React, Angular, and Vue.js** (HTML, JavaScript, CSS).
+- 🎮 Using **Git and GitHub** for version control.
 - 🌟 **What I love is building useful and creative solutions, what I’m willing to do is keep pushing myself to learn and collaborate, and what I aspire to is becoming a professional who makes a positive impact through technology.**
 
 ---
