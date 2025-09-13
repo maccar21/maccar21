@@ -74,8 +74,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=maccar21&show_icons=true&theme=radical" alt="Mateo's GitHub stats" width="48%"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=maccar21&theme=radical" alt="Mateo's Streak" width="48%"/>
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=maccar21&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maccar21&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
