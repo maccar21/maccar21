@@ -1,6 +1,6 @@
 <h1 align="center"><b>Hi there! I'm Mateo Cardona Arias</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=27AE60&size=30&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub!;Systems+Engineering+Student;Web+Developer+In+Training💻;Always+Learning+🚀)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=27AE60&size=30&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub!;Systems+Engineering+Student;Web+Developer+In+Training+💻;Always+Learning+🚀)](https://git.io/typing-svg)
 
 ---
 
